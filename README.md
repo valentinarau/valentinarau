@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**valentinarau/valentinarau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ocaml
+TEACHING ASSISTANT / SYSTEMS ENGINEERING / SOFTWARE DEVELOPER
+```
 
-Here are some ideas to get you started:
+</div>     
+     
+```haskell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                  __/)
+                                               .-(__(=:
+                                            |\ |    \)
+                                            \ ||
+                                             \||
+                                              \|
+                                               |  【ｖａｌｅｎｔｉｎａ】
+```
+<div align="center">
+
+```rb
+˚✧₊⁎ o hello there o ⁎⁺˳✧༚  
+```
+
+</div>
