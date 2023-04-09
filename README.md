@@ -8,13 +8,13 @@ TEACHING ASSISTANT / SYSTEMS ENGINEERING / SOFTWARE DEVELOPER
      
 ```haskell
 
-                                                  __/)
-                                               .-(__(=:
-                                            |\ |    \)
-                                            \ ||
-                                             \||
-                                              \|
-                                               |  【ｖａｌｅｎｔｉｎａ】
+                    __/)
+                 .-(__(=:
+              |\ |    \)
+              \ ||
+               \||
+                \|
+                 |  【ｖａｌｅｎｔｉｎａ】
 ```
 <div align="center">
 
